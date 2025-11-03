@@ -2,7 +2,7 @@
 
 Dashboard:
 
-![Image]()
+![Image](https://github.com/quafiya-rahim/HR-Analytics-Dashboard/blob/a44c622bb53ca6ffe4dcab80f63e95f257cdbd69/dashboard2.png)
 
 
 
