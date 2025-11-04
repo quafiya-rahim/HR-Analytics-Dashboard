@@ -72,28 +72,33 @@ Through advanced data analysis and visualization techniques, this project aims t
 * Employees aged 18–25 have the highest attrition rate (~35%), indicating early-career professionals are more likely to leave.
 * 26–35 and 55+ age groups show moderate attrition, suggesting mid-career and near-retirement transitions.
 * Attrition is lowest among 36–45, indicating higher job stability in this segment.
+  
 ![Image](https://github.com/user-attachments/assets/ac0b9fee-65df-4ae5-9e54-3a4f238f9bf2)
 
 2️ Impact Of Salary Level On Employee Attrition
 * Employees earning up to 5k show the highest attrition rate (~18–20%), implying compensation dissatisfaction.
 * 10k–15k and 5k–10k groups display moderate attrition, likely due to career progression concerns.
 * Attrition is lowest in 15k+ slab, suggesting higher pay improves retention.
+  
 ![Image](https://github.com/user-attachments/assets/3648e14b-a01b-4a2b-b15c-ea76493f9da1)
 
 3️ Effect Of Distance From Home On Attrition
 * Attrition increases slightly with longer commutes, with peaks around mid-range distances (15–25 km).
 * Employees living closer to workplace show lower attrition, indicating convenience impacts retention.
+  
 ![Image](https://github.com/user-attachments/assets/ddff0afc-3d26-4f35-9471-f664204c8ad2)
 
 4️ Attrition Rate By Overtime
 * Employees working overtime exhibit higher attrition (30.5%) compared to those who don’t (10.4%).
 *Indicates that workload and burnout could be major factors driving employee exits.
+
 ![Image](https://github.com/user-attachments/assets/c465f8e0-23c2-4e84-8b57-81fba97f6464)
 
 5️ Attrition Trend Over Time
 * Attrition is highest during early years (0–5 years), drops mid-career, and rises again nearing 35–40 years of service.
 *Suggests employees either leave early or exit near retirement, with stability in the mid-phase.
-![Image]("https://github.com/user-attachments/assets/eadd7c8a-c612-4894-8377-963373c926a0)
+
+![Image](https://github.com/user-attachments/assets/a4a1bc71-53c9-4d22-a234-b1df8a3fcaba)
 
 
 
