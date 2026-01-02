@@ -59,8 +59,6 @@ Through advanced data analysis and visualization techniques, this project aims t
 
 * Replaced inconsistent or missing values with appropriate substitutes to ensure data integrity.
 
-* Sorted data rows to organize information logically for smoother analysis.
-
 * Handled null values and removed dublicate entries for data accuracy.
 
 * Improved overall data quality and reliability,supporting accurate insights and effective decision-making.
